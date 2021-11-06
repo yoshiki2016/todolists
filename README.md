@@ -1,3 +1,6 @@
+# enviroment version
+@vue/cli 4.5.15
+
 # todolists
 
 ## Project setup
